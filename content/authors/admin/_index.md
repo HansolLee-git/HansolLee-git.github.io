@@ -3,7 +3,7 @@
 title: Hansol Lee
 
 # Name pronunciation (optional)
-name_pronunciation: Hansol Lee
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Hansol
