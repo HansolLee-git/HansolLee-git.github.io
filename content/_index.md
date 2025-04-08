@@ -41,7 +41,7 @@ sections:
         
         If you wanna join my research journey, feel free to reach out 😃. I really love to work together and make something new.
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
