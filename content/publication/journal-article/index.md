@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Thermal-hydraulic modeling of manifold microchannels (MMC)"
 authors:
 - admin
-- Robert Ford
+- Young Jin Lee
+- Sung Jin Kim
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Corresponding author"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.icheatmasstransfer.2024.107498"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-03T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*International Communications in Heat and Mass Transfer"
+publication_short: "ICHMT"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A one-dimensional model has been developed to accurately predict the thermal performance and flow non-uniformity of the manifold microchannels (MMC) for embedded liquid cooling. The model consists of one-dimensional governing equations derived from the integral relations of momentum and energy over appropriately-defined two separate control volumes. To validate the model, a series of 3-D numerical simulation is conducted over the wide ranges of the Reynolds number (Re_m,in) at the manifold inlet from 560 to 3190, the dimensionless hydraulic flow length (x+) from 0.012 to 0.123, and the dimensionless thermal flow length (x*) from 0.002 to 0.023. It is shown that the model provides accurate predictions of the thermal performance and flow non-uniformity (CV) of MMC heat sinks within the root mean square percentage error (RMSPE) of 6% and 26% for 50 data points, respectively. The significant improvement of the prediction accuracy is made over the earlier models with an error reduction of 82%. Finally, a design guideline for the uniform flow distribution is suggested for the first time based on a newly proposed explicit correlation for predicting the flow non-uniformity: the dynamic pressure at the manifold inlet should be kept smaller than the pressure drop across the microchannels.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -33,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
