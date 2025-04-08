@@ -42,10 +42,6 @@ sections:
         If you wanna join my research journey, feel free to reach out 😃. I really love to work together and make something new.
     design:
       columns: '1'
-      css_class: custom-width
-      .custom-width {
-      @apply max-w-7xl mx-auto px-4; /* 최대 너비와 중앙 정렬 */
-      }
   - block: collection
     id: papers
     content:
