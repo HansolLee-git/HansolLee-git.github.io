@@ -42,6 +42,7 @@ sections:
         If you wanna join my research journey, feel free to reach out 😃. I really love to work together and make something new.
     design:
       columns: '1'
+      css_class: 'wide-research'
   - block: collection
     id: papers
     content:
