@@ -52,13 +52,14 @@ interests:
   - Interconnection and Power Distribution
 
 education:
-  - area: MS Mechanical Engineering
+  - area: MS in Mechanical Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2022-03-01
     date_end: 2024-02-29
     summary: |
       GPA: 4.0/4.0
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
+      Developed reduced-order theoretical model for predicting the thermal-hydraulic performance of silicon-based manifold microchannel (MMC) cooling device. Performed multi-fidelity design optimization of MMC and achieved record-high thermal performance (> 2 kW/cm2). Collaborated with Electronics and Telecommunications Research Institute (ETRI) and Samsung. Supervised by Prof. Sung Jin Kim. Published lead-author paper at the International Communications in Heat and Mass Transfer.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
