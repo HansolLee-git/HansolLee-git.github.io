@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_PhD_Hansol_Lee.pdf
     design:
       css_class: dark
       background:
@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: '⚛ My Research'
+      subtitle: 'Toward energy-efficient electro-thermally co-designed advanced semiconductor packaging'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Throughout my master's studies at KAIST, I investigated effective and energy-efficient thermal management solutions for advanced electronics. I developed theoretical reduced-order modeling for predicting the thermal performance of silicon-based embedded cooling device, manifold microchannel (MMC) heat sink, performed multi-fidelity design optimization, experimentally validated record-high heat dissipation performance (> 2 kW/cm2). This groundbreaking achievement would not have been possible without my incredible colleagues.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Through my PhD studies at Georgia Tech, I aim to develop an electro-thermal co-design methodology that simultaneously addresses signal, power, and thermal integrity for advanced semiconductor packaging.
         
-        Please reach out to collaborate 😃
+        If you wanna join my research journey, feel free to reach out 😃. I really love to work together and make something new.
     design:
       columns: '1'
   - block: collection
