@@ -53,3 +53,9 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+params:
+  # ... other params ...
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
