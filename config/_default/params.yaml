@@ -1,5 +1,8 @@
 hugoblox:
   schema: "2.0"
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
   identity:
     name: Hansol Lee
     type: person
