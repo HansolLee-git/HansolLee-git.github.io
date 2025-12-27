@@ -1,19 +1,19 @@
 ---
-title: 'An example conference paper'
+title: 'Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat Sinks with Plate Fins (2023 KSME)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
+  - Sung Jin Kim
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Corresponding Author'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-05-31T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
