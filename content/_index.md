@@ -39,11 +39,12 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: 'Journey'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My mission is to pioneer electro-thermal co-design strategies of advanced packaging by combining my background in heat transfer with signal/power integrity and IC design. 
+        
+        Current focus areas are as follows.
+        * Thermal Management of 3D ICs: Developing advanced cooling solutions and thermal modeling techniques to mitigate hotspots in vertically stacked chips.
 
         Please reach out to collaborate 😃
     design:
