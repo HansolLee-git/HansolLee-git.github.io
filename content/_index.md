@@ -44,7 +44,9 @@ sections:
         My mission is to pioneer electro-thermal co-design strategies of advanced packaging by combining my background in heat transfer with signal/power integrity and IC design. 
         
         Current focus areas are as follows.
-        * Thermal Management of 3D ICs: Developing advanced cooling solutions and thermal modeling techniques to mitigate hotspots in vertically stacked chips.
+        * Thermal Management of 3D ICs: Developing advanced cooling solutions and thermal modeling techniques in vertically stacked chips.
+        * Signal & Power Integrity (SI/PI): Investigating how thermal effects on high-speed signal transmission and power delivery.
+        * Advanced Packaging: Exploring heterogeneous integration and new materials to improve the reliability of next-gen semiconductor interconnects.
 
         Please reach out to collaborate 😃
     design:
