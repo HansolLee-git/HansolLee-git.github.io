@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '5rem'
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -34,7 +34,7 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
