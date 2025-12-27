@@ -8,19 +8,10 @@ name:
   alternate: ""
   pronunciation: ""
   pronouns: "he/him"
-postnominals:
-  - "PhD"
-  - "MIEEE"
 status:
-  icon: "☕️"
-role: "Senior AI Research Scientist"
-bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-
-  has been published in top conferences like NeurIPS and ICML, with over
-
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-
-  while ensuring ethical development.\n"
+  icon: "🔬"
+role: "PhD student in Electrical and Computer Engineering"
+bio: "Hi! I'm currently a PhD student in Integrated 3D Systems Group (I3DS) at Georgia Tech. My mission is to advance next-generation semiconductor packaging technology through multidisciplinary and collective leadership. My research interests span from electro-thermal co-design of 3D ICs and signal & power integrity of advanced packaging."
 affiliations:
   - name: "Meta AI"
     url: "https://ai.meta.com/"
