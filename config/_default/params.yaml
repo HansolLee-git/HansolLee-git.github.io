@@ -10,7 +10,7 @@ hugoblox:
     description: description
   theme:
     mode: system
-    pack: minimal
+    pack: contrast
     colors:
       primary: ""
       secondary: ""
