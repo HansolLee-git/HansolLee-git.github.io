@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
-
+draft: true
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
