@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Thermal Performance Prediction of Liquid-cooled Manifold Microchannel (MMC) Heat Sinks with Plate Fins (2023 KSME)'
 
 # Authors
