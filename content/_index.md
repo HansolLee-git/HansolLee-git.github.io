@@ -48,7 +48,7 @@ sections:
         * Signal & Power Integrity (SI/PI): Investigating how thermal effects on high-speed signal transmission and power delivery.
         * Advanced Packaging: Exploring heterogeneous integration and new materials to improve the reliability of next-gen semiconductor interconnects.
 
-        Please reach out to collaborate 😃
+        I'm very open to collaborate. Feel free to reach out! 😃
     design:
       columns: '1'
   - block: collection

@@ -1,5 +1,9 @@
 ---
 title: "One-dimensional model of manifold microchannels for embedded cooling: Prediction of thermal performance and flow non-uniformity"
+
+draft: false
+featured: false
+
 authors:
 - me
 - Young Jin Lee
@@ -28,7 +32,6 @@ tags:
 - Microfluidics
 - Embedded Liquid Cooling
 
-featured: true
 hugoblox:
   ids:
     arxiv: 1512.04133v1
