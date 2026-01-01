@@ -39,10 +39,10 @@ education:
     start: "2025-08-01"
     end: ""
     summary: "Graduate Research Assistant. Conducting research about thermal management of glass-core packaging, microfluidic interconnect for 2.5D/3D ICs, and Fan-out packaging.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
+    #button:
+    #  text: "Download dissertation"
+    #  url: "/resume.pdf"
+    #  icon: "hero/arrow-down-tray"
   - degree: "MS in Mechanical Engineering"
     institution: "KAIST"
     start: "2022-03-01"
@@ -52,47 +52,61 @@ education:
     start: "2015-03-01"
     end: "2022-02-28"
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Graduate Research Assistant"
+    org: "Georgia Institute of Technology"
+    start: "2025-08-01"
+    summary: "Leading research project on National Advanced Packaging Manufacturing Program (NAPMP). Developing thermal mitigation strategies for glass-core packaging using advanced materials and microfluidic cooling. \n"
+    #button:
+    #  text: "View portfolio"
+    # url: "/"
+    # icon: "hero/arrow-down-tray"
+  - role: "Research Associate"
+    org: "Korea Advanced Institute of Science and Technology (KAIST)"
+    start: "2024-09-01"
+    end: "2025-03-01"
+    summary: "Conducted multi-fideilty performance optimization of silicon-embedded manifold microchannels (MMC) for thermal management of advanced electronics. Includes theoretical modeling and thermal-fluidic experiment works. We achieved record-high heat dissipation performance (> 2kW/cm2) within the device pressure drop of 10 kPa. Worked with Professor Ikjin Lee's Innovative Design Optimization Lab at KAIST.\n"
+  - role: "Graduate Research Assistant"
+    org: "Korea Advanced Institute of Science and Technology (KAIST)"
+    start: "2022-03-01"
+    end: "2024-02-01"
+    summary: "Developed analytical thermal-hydraulic model of silicon-based embedded liquid cooling device, manifold microchannels (MMC). Validated the model with the experimental & numerical data. This work is foundational in understanding relations between flow distribution and thermal performance of MMC.\n"
+
 skills:
   - name: "Technical Skills"
     items:
-      - label: "Python"
+      - label: "Ansys Fluent & Icepak"
         level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
+      - label: "Ansys HFSS"
         level: 4
+      - label: "Keysight ADS"
+        level: 3
+      - label: "MATLAB"
+        level: 5
+      - label: "Python"
+        level: 4
+
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
         level: 5
       - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
+        level: 5
+
 languages:
   - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
     level: 4
     label: "Fluent"
+  - name: "Korean"
+    level: 5
+    label: "Native"
 awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
+  - title: "Outstanding Master’s Research Award (Top 3 Graduates)"
+    awarder: "Department of Mechanical Engineering at KAIST"
+    date: "2024-11-01"
+    summary: "Awarded to top three graduate students in the Department of Mechanical Engineering at KAIST, for those who have achieved outstanding research outcomes and academic performance.."
+    icon: "hero/trophy"
+  - title: "Outstanding Achievement Award (Top 5% students in the ME department)"
+    awarder: "Department of Mechanical Engineering at KAIST"
+    date: "2021-03-01"
     icon: "hero/trophy"
 weight: null
