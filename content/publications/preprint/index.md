@@ -2,7 +2,7 @@
 title: "One-dimensional model of manifold microchannels for embedded cooling: Prediction of thermal performance and flow non-uniformity"
 
 draft: false
-featured: true
+featured: false
 
 authors:
 - me
