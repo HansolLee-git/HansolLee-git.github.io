@@ -73,24 +73,24 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent News
+      page_type: news
       filters:
         folders:
-          - events
+          - news
+        count: 3
     design:
       view: card
   - block: collection
-    id: news
     content:
-      title: Recent News
+      title: Blog
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 2
       # Filter on criteria
       filters:
         author: ''
