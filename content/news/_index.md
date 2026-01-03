@@ -10,8 +10,6 @@ sections:
       filters:
         folders:
           - news
-        kinds:
-          - section
     design:
       view: article-grid
       show_read_time: false

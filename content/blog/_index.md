@@ -9,8 +9,6 @@ sections:
       title: Blog
       filters:
         folder: blog
-        kinds:
-          - section
     design:
       view: article-grid
       show_read_time: false
