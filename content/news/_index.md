@@ -1,4 +1,5 @@
 ---
 title: News
-view: article-grid
+summary: My News
+type: landing
 ---
