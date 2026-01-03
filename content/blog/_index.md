@@ -1,7 +1,6 @@
 ---
 title: Blog
 type: landing
-view: citation
 
 sections:
   - block: collection
