@@ -34,8 +34,8 @@ sections:
 
     design:
       view: citation
-      show_read_time: false
-      show_date: false
-      show_read_more: false
+      show_read_time: true
+      show_date: true
+      show_read_more: true
       columns: 1
 ---
