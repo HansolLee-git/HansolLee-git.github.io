@@ -7,7 +7,8 @@ sections:
     content:
       title: Blog
       filters:
-        folder: blog
+        folders: 
+            - blog
     design:
       view: citation
       show_read_time: false
