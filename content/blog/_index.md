@@ -4,10 +4,11 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '3rem'
+  spacing: '2rem'
 
 sections:
   - block: collection
+    spacing: '2rem'
     content:
       title: Data science
       filters:
