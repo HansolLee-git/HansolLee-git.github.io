@@ -10,7 +10,7 @@ sections:
       filters:
         folder: blog
     design:
-      view: article-grid
+      view: citation
       show_read_time: false
       show_date: false
       show_read_more: false
