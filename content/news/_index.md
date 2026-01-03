@@ -8,7 +8,8 @@ sections:
     content:
       title: News
       filters:
-        tag: 
+        folders:
+          - news
         kinds:
           - section
     design:
