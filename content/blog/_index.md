@@ -4,11 +4,9 @@ type: landing
 
 sections:
   - block: collection
-    title: Data Science
     content:
-      title: Blog
+      title: Data science
       filters:
-        category: "Data Science"
         folders: 
             - blog
     design:
@@ -19,11 +17,9 @@ sections:
       columns: 1
       
   - block: collection
-    title: Test
     content:
-      title: Blog
+      title: Visual
       filters:
-        category: "Test"
         folders: 
             - blog
     design:
