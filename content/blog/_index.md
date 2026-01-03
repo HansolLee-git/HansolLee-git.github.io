@@ -1,5 +1,5 @@
 ---
 title: Blog
 type: landing
-view: article-grid
+view: citation
 ---
