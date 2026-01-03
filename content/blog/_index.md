@@ -1,4 +1,5 @@
 ---
+linkTitle: Category
 title: Blog
 type: landing
 
@@ -10,9 +11,12 @@ sections:
   - block: collection
     spacing: '2rem'
     content:
-      title: Data science
+      title: Blog
       filters:
-        folders: 
+        folders:
+          - blog
+        tags:
+          - Category
 
     design:
       view: article-grid
