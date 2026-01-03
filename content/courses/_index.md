@@ -16,8 +16,6 @@ sections:
     content:
       title: Courses
       filters:
-        folders: 
-          - courses
         tag: Course
     design:
       view: article-grid
