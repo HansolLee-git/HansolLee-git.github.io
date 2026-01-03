@@ -17,8 +17,7 @@ sections:
       show_date: false
       show_read_more: false
       columns: 1
-
-sections:
+      
   - block: collection
     title: Test
     content:
