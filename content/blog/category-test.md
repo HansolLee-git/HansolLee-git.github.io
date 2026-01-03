@@ -18,7 +18,7 @@ sections:
         tags:
 
     design:
-      view: citation
+      view: compact
       show_read_time: false
       show_date: false
       show_read_more: false
