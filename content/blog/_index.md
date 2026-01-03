@@ -1,6 +1,7 @@
 ---
 title: Blog
 type: landing
+toc: true
 
 design:
   # Section spacing
@@ -17,7 +18,7 @@ sections:
         count: 3
 
     design:
-      view: citation
+      view: article-grid
       show_read_time: false
       show_date: false
       show_read_more: false
