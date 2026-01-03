@@ -1,11 +1,11 @@
 ---
 title: Blog
 type: landing
-toc: true
 
 design:
   # Section spacing
   spacing: '2rem'
+
 
 sections:
   - block: collection
@@ -39,3 +39,9 @@ sections:
       show_read_more: true
       columns: 1
 ---
+
+
+
+{{< cards >}}
+  {{< card url="category-test" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
+{{< /cards >}}
