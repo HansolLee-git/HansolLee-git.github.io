@@ -12,6 +12,7 @@ sections:
     spacing: '2rem'
     content:
       title: Blog
+      text: These are blog posts for technology review, life record, and bunch of other things.
       filters:
         folders:
           - blog
@@ -25,9 +26,3 @@ sections:
       show_read_more: false
       columns: 3
 ---
-
-
-
-{{< cards >}}
-  {{< card url="category-test" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
