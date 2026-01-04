@@ -18,7 +18,7 @@ sections:
       text: 
       filters:
         folders:
-          - blog
+          - blog/2.PhD_life
         tags:
           - PhD_life
     design:

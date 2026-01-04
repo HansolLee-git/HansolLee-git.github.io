@@ -18,7 +18,7 @@ sections:
       text: 
       filters:
         folders:
-          - blog
+          - blog/3.Etc
         tags:
           - Etc
     design:

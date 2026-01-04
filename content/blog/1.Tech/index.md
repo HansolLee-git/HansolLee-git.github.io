@@ -18,7 +18,7 @@ sections:
       text: 
       filters:
         folders:
-          - blog
+          - blog/1.Tech
         tags:
           - Tech
     design:
